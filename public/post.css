@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
+.hide {
+    display: none;
+}
+
+ul{
+    list-style: none;
+}
+
+body {
+    /* padding-top: 80px; */
+    /* word-wrap:break-word; */
+    background-image: url(https://medcitynews.com/uploads/2019/04/GettyImages-938657906.jpg);
+    background-size: cover;
+    font-family: 'Antonio', sans-serif;
+}
